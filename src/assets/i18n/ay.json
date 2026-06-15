@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "status": "BORRADOR / DRAFT",
+    "warning": "Traducción tentativa generada por IA. NO validada por hablante nativo. Puede contener errores. Requiere revisión profesional antes de uso real.",
+    "variant": "Aymara (variante general)"
+  },
+  "app": {
+    "name": "Salud Ya",
+    "tagline": "Jaya markanakan qullir utanakataki amuyt'ayiri triaje"
+  },
+  "common": {
+    "back": "Kutt'aña",
+    "help": "Yanapt'aña",
+    "loading": "Wakichkasa…"
+  },
+  "posta": {
+    "operatorLabel": "Irnaqiri",
+    "codeLabel": "Código"
+  },
+  "triage": {
+    "red": "Wila",
+    "yellow": "Q'illu",
+    "green": "Ch'uxña"
+  },
+  "historial": {
+    "title": "Qullañanakan qillqatapa",
+    "searchPlaceholder": "Usurin sutipampi thaqaña…",
+    "summary": {
+      "urgent": "Jank'akinaka",
+      "scheduled": "Wakicht'atanaka",
+      "ambulatory": "Sarnaqirinaka"
+    },
+    "pendingSync": "Sincronizañ suyaski",
+    "newAttention": "Machaq qullaña",
+    "empty": "Janiw qullañanaka jikxatasiti"
+  },
+  "offline": {
+    "title": "Internet jan utjkasa",
+    "banner": {
+      "offline": "Internetar jan mayachasiti",
+      "pending": "Sincronizañ suyir qullañanaka: {{count}}",
+      "sync": "Sincronizaña"
+    },
+    "status": {
+      "pendingLabel": "Sincronizañ suyir qullañanaka",
+      "pendingHint": "Internet utjkani ukhaxa pachpat sincronizasini",
+      "allSyncedTitle": "Taqi sincronizatawa",
+      "allSyncedHint": "Janiw suyir qullañanaka utjiti"
+    },
+    "unsyncedTitle": "Jan sincronizata qullañanaka",
+    "syncNow": "Jichha sincronizaña",
+    "syncing": "Sincronizaskasa…",
+    "info": {
+      "title": "Kunjams internet jan utjkasa irnaqi",
+      "point1": "Taqi qullañanakax dispositivon imantata",
+      "point2": "Internet utjkani ukhax pachpat sincronizasi",
+      "point3": "Patxan ch'iyampi amparat sincronizañ atiña"
+    }
+  },
+  "language": {
+    "title": "Aru",
+    "subtitle": "Aplicacionan arupa ajlliña",
+    "selected": "Ajllita",
+    "names": {
+      "es": "Español",
+      "qu": "Runasimi",
+      "ay": "Aymara"
+    }
+  },
+  "menu": {
+    "title": "Jach'a panel",
+    "greeting": "Kamisaraki, {{operator}}",
+    "newConsultation": "Machaq jiskt'awi",
+    "newConsultationDesc": "Usuri qillqaña, triaje qalltaña",
+    "history": "Qullañanakan qillqatapa",
+    "historyDesc": "Qillqata qullañanaka, kunjamäskixa",
+    "sync": "Sincronización",
+    "syncDesc": "Internet jan utjkasa, apaña suyirinaka",
+    "settings": "Wakichawi",
+    "settingsDesc": "Arsuwi, qillqa jach'a, jark'aqawi"
+  },
+  "config": {
+    "title": "Postan wakichawipa",
+    "locked": {
+      "title": "P'iqinchirin mantawipa",
+      "subtitle": "Wakichawi uñjañataki p'iqinchirin PIN uchaña",
+      "pinLabel": "P'iqinchirin PIN",
+      "unlock": "Jist'araña",
+      "error": "Pantjata PIN. Wasitat lurañma."
+    },
+    "voice": {
+      "title": "Arsuwin jach'apa",
+      "desc": "Triajen arsuta yatiyawinakataki",
+      "test": "Arsuwi yant'aña",
+      "sample": "Salud Ya ukar walikiwa jutawi. Akaxa arsuwi yant'awiwa."
+    },
+    "text": {
+      "title": "Qillqan jach'apa",
+      "desc": "Taqi aplicacionan qillqapa jach'aptayi",
+      "normal": "Normal",
+      "large": "Jach'a",
+      "xlarge": "Wali jach'a",
+      "sample": "Qillqa uñacht'awi"
+    },
+    "pin": {
+      "title": "P'iqinchirin PIN",
+      "desc": "Wakichawir mantañ PIN mayjt'ayaña",
+      "new": "Machaq PIN (4 jakhunaka)",
+      "save": "PIN imaña",
+      "saved": "PIN mayjt'ayata",
+      "invalid": "PIN 4 jakhuniwa"
+    },
+    "lock": "Wakichawi jist'antaña"
+  }
+}
