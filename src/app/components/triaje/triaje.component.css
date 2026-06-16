@@ -1,0 +1,25 @@
+/* Estilos para el componente Triaje */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+:host {
+  display: block;
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  transition: all 0.3s ease;
+}
