@@ -1,0 +1,110 @@
+{
+  "app": {
+    "name": "Salud Ya",
+    "tagline": "Triaje inteligente para postas médicas rurales"
+  },
+  "common": {
+    "back": "Volver",
+    "help": "Ayuda",
+    "loading": "Cargando…"
+  },
+  "posta": {
+    "operatorLabel": "Operador",
+    "codeLabel": "Código"
+  },
+  "triage": {
+    "red": "Rojo",
+    "yellow": "Amarillo",
+    "green": "Verde"
+  },
+  "historial": {
+    "title": "Historial de Atenciones",
+    "searchPlaceholder": "Buscar por nombre de paciente…",
+    "summary": {
+      "urgent": "Urgentes",
+      "scheduled": "Programadas",
+      "ambulatory": "Ambulatorio"
+    },
+    "pendingSync": "Pendiente de sincronizar",
+    "newAttention": "Nueva atención",
+    "empty": "No se encontraron atenciones"
+  },
+  "offline": {
+    "title": "Estado Offline",
+    "banner": {
+      "offline": "Sin conexión a internet",
+      "pending": "Atenciones pendientes de sincronizar: {{count}}",
+      "sync": "Sincronizar"
+    },
+    "status": {
+      "pendingLabel": "Atenciones pendientes de sincronizar",
+      "pendingHint": "Se sincronizarán automáticamente cuando haya conexión a internet",
+      "allSyncedTitle": "Todo sincronizado",
+      "allSyncedHint": "No hay atenciones en cola"
+    },
+    "unsyncedTitle": "Atenciones no sincronizadas",
+    "syncNow": "Sincronizar ahora",
+    "syncing": "Sincronizando…",
+    "info": {
+      "title": "Funcionamiento Offline",
+      "point1": "Todas las atenciones se guardan localmente en el dispositivo",
+      "point2": "Se sincronizan automáticamente al detectar conexión a internet",
+      "point3": "Puede forzar la sincronización manual con el botón de arriba"
+    }
+  },
+  "language": {
+    "title": "Idioma",
+    "subtitle": "Elija el idioma de la aplicación",
+    "selected": "Seleccionado",
+    "names": {
+      "es": "Español",
+      "qu": "Quechua",
+      "ay": "Aymara"
+    }
+  },
+  "menu": {
+    "title": "Menú Principal",
+    "greeting": "Hola, {{operator}}",
+    "newConsultation": "Nueva consulta",
+    "newConsultationDesc": "Registrar paciente e iniciar triaje",
+    "history": "Historial de atenciones",
+    "historyDesc": "Atenciones registradas y su estado",
+    "sync": "Sincronización",
+    "syncDesc": "Estado offline y cola de envío",
+    "settings": "Configuración",
+    "settingsDesc": "Voz, tamaño de texto y seguridad"
+  },
+  "config": {
+    "title": "Configuración de la Posta",
+    "locked": {
+      "title": "Acceso de administrador",
+      "subtitle": "Ingrese el PIN de administrador para ver la configuración",
+      "pinLabel": "PIN de administrador",
+      "unlock": "Desbloquear",
+      "error": "PIN incorrecto. Inténtelo de nuevo."
+    },
+    "voice": {
+      "title": "Volumen de voz",
+      "desc": "Para las instrucciones habladas del triaje",
+      "test": "Probar voz",
+      "sample": "Bienvenido a Salud Ya. Esta es una prueba de voz."
+    },
+    "text": {
+      "title": "Tamaño de texto",
+      "desc": "Agranda el texto de toda la aplicación",
+      "normal": "Normal",
+      "large": "Grande",
+      "xlarge": "Muy grande",
+      "sample": "Texto de ejemplo"
+    },
+    "pin": {
+      "title": "PIN de administrador",
+      "desc": "Cambie el PIN de acceso a la configuración",
+      "new": "Nuevo PIN (4 dígitos)",
+      "save": "Guardar PIN",
+      "saved": "PIN actualizado",
+      "invalid": "El PIN debe tener 4 dígitos"
+    },
+    "lock": "Bloquear configuración"
+  }
+}

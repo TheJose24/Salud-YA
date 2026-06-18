@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "status": "BORRADOR / DRAFT",
+    "warning": "Traducción tentativa generada por IA. NO validada por hablante nativo. Puede contener errores. Requiere revisión profesional antes de uso real.",
+    "variant": "Quechua sureño (Cusco-Collao / Chanka)"
+  },
+  "app": {
+    "name": "Salud Ya",
+    "tagline": "Llaqtakunapi hampina wasikunapaq yuyayniyuq triaje"
+  },
+  "common": {
+    "back": "Kutiy",
+    "help": "Yanapay",
+    "loading": "Apamuchkan…"
+  },
+  "posta": {
+    "operatorLabel": "Llamk'aq",
+    "codeLabel": "Código"
+  },
+  "triage": {
+    "red": "Puka",
+    "yellow": "Q'illu",
+    "green": "Q'umir"
+  },
+  "historial": {
+    "title": "Hampiykunap willakuynin",
+    "searchPlaceholder": "Onqoqpa sutinwan maskay…",
+    "summary": {
+      "urgent": "Utqaykuna",
+      "scheduled": "Wakichisqakuna",
+      "ambulatory": "Puriq hampiy"
+    },
+    "pendingSync": "Sincronizayta suyachkan",
+    "newAttention": "Musuq hampiy",
+    "empty": "Mana hampiykuna tarikunchu"
+  },
+  "offline": {
+    "title": "Mana internetwan",
+    "banner": {
+      "offline": "Mana internetman tinkisqachu",
+      "pending": "Sincronizayta suyaq hampiykuna: {{count}}",
+      "sync": "Sincronizay"
+    },
+    "status": {
+      "pendingLabel": "Sincronizayta suyaq hampiykuna",
+      "pendingHint": "Internet kaptinqa kikinmanta sincronizakunqa",
+      "allSyncedTitle": "Llapan sincronizasqaña",
+      "allSyncedHint": "Manaña suyaq hampiykuna kanchu"
+    },
+    "unsyncedTitle": "Mana sincronizasqa hampiykuna",
+    "syncNow": "Kunan sincronizay",
+    "syncing": "Sincronizachkan…",
+    "info": {
+      "title": "Imayna mana internetwan llamk'an",
+      "point1": "Llapan hampiykunaqa dispositivopi waqaychakun",
+      "point2": "Internet kaptinqa kikinmanta sincronizakun",
+      "point3": "Hanaq ñit'inawan makimanta sincronizayta atinki"
+    }
+  },
+  "language": {
+    "title": "Simi",
+    "subtitle": "Aplicacionpaq simita akllay",
+    "selected": "Akllasqa",
+    "names": {
+      "es": "Español",
+      "qu": "Runasimi",
+      "ay": "Aymara"
+    }
+  },
+  "menu": {
+    "title": "Qallariy panel",
+    "greeting": "Napaykullayki, {{operator}}",
+    "newConsultation": "Musuq tapuy",
+    "newConsultationDesc": "Onqoqta qillqay, triajeta qallariy",
+    "history": "Hampiykunap willakuynin",
+    "historyDesc": "Qillqasqa hampiykuna, estadunpas",
+    "sync": "Sincronización",
+    "syncDesc": "Mana internet kaqtin, apachina suyaqkuna",
+    "settings": "Allichay",
+    "settingsDesc": "Kunka, qillqa sayay, amachaypas"
+  },
+  "config": {
+    "title": "Postap allichaynin",
+    "locked": {
+      "title": "Kamachiqpa yaykuynin",
+      "subtitle": "Allichayta qhawanaykipaq kamachiqpa PIN-ninta churay",
+      "pinLabel": "Kamachiqpa PIN-nin",
+      "unlock": "Kichay",
+      "error": "Pantasqa PIN. Huktawan ruway."
+    },
+    "voice": {
+      "title": "Kunkap sayaynin",
+      "desc": "Triajep rimasqan willakuykunapaq",
+      "test": "Kunkata pruway",
+      "sample": "Salud Ya-man allin hamusqa. Kayqa kunka pruwaymi."
+    },
+    "text": {
+      "title": "Qillqap sayaynin",
+      "desc": "Tukuy aplicacionpa qillqanta hatunyachin",
+      "normal": "Normal",
+      "large": "Hatun",
+      "xlarge": "Ancha hatun",
+      "sample": "Qillqa qhaway"
+    },
+    "pin": {
+      "title": "Kamachiqpa PIN-nin",
+      "desc": "Allichayman yaykuna PIN-ta tikray",
+      "new": "Musuq PIN (4 yupaykuna)",
+      "save": "PIN-ta waqaychay",
+      "saved": "PIN tikrasqaña",
+      "invalid": "PIN-qa 4 yupayniyuq kanan"
+    },
+    "lock": "Allichayta wisq'ay"
+  }
+}
